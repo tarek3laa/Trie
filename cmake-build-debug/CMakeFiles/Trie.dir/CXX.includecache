@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarek/CLionProjects/Trie/headers/Trie.h
+bits/stdc++.h
+/home/tarek/CLionProjects/Trie/headers/bits/stdc++.h
+
+/home/tarek/CLionProjects/Trie/sources/main.cpp
+../headers/Trie.h
+/home/tarek/CLionProjects/Trie/headers/Trie.h
+
