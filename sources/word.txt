@@ -1,5 +1,99 @@
-Jop وظيفة
-ahmed احمد
-tarek طارق
-mohamed محمد
-mahmoud محمود
+Flagpole	سارية العلم
+Flamingo	فلامنجو
+Flashlight	الضوء الومضي
+Flat rate 	سعر موحد 
+flat tyre 	إطار سيارة خال من الهواء 
+Flight	رحلة طيران 
+Flippers	زعانف
+Float	يعوم
+Fondue	فوندو
+Food	طعام
+food 	طعام
+Food from the air	غذاء من الهواء
+Food processing 	صناعات غذائية
+fool 	شخص أحمق
+foolish 	أحمق، أبله
+Foot	القدم
+football 	كرة قدم
+footbridge 	كوبرى لعبور المشاة
+footpath 	ممر
+Footprint	أثر القدم
+foreign 	أجنبى
+Foreign policy 	سياسة خارجية
+Forest	غابة
+Forgiveness 	مغفرة
+Fork	شوكة
+Form	نموذج
+Fortress	حصن
+Fortress	حصن – قلعة
+Fortunately 	من حسن الحظ
+Forty	أربعون
+forward	إلى الأمام
+Fossil fuels 	وقود ناتج من الحفريات
+Foul	خطأ/مخالف لقانون لعبة
+Foundation	أساس
+Founder	مؤسس
+Founders 	مؤسسون
+Fountain	ينبوع
+Four	أربعة
+Fresh	طازج
+Friday	الجمعة
+Friday 	الجمعة
+Friend	صديق
+Friendly ودود
+frightened 	مرعوب، خائف جدا
+Frightening 	مخيف، مرعب
+Frog	ضفدع
+Front	جبين
+Frozen	متجمد
+Fruit	فاكهة
+Golden	ذهبي
+Golf	لعبة الغولف
+Insecticide	مبيد حشرى
+Insects	حشرات
+inside 	بالداخل
+Insist	يصر
+Insolvency 	الاعسار
+Insomnia	أرق
+Inspection	فحص
+Inspection 	التفتيش
+Install	يركب
+Instalment 	قسط
+Instead of 	بدلا من
+Instructions	إرشادات – تعليمات
+Instructions	تعليمات
+Instrument	آلة – أداة
+Instruments	أدوات
+Insurance policy 	بوليصة تأمين
+Intangible assets 	أصول معنوية
+Intense	شديد – عنيف
+Intensive	مركز – مكثف
+Interest	اهتمام
+Interest 	فائدة
+interested in 	مهتم بـ
+interesting 	ممتع، مشوق
+Interference	تدخل
+Lady	سيدة
+Lair	كذاب
+Lake	بحيرة
+Lamb	حمل
+Lamp	مصباح
+Landmark 	احد المعالم البارزة
+Landscape	منظر طبيعي
+Landscapes	معالم
+Landslide	انهيار التربة
+Lane	حارة
+Language	لغة
+Language	لغة
+Lantern	مشكاة
+Lap 	دورة واحدة في سباق
+Lapel	طية صدر السترة
+Large	واسع
+Larger	أوسع
+Lasagna	لازانيا
+Laser printer	طابعة ليزر
+Lash	ضربة – جلدة
+Lash 	جلدة أو ضربة بالسوط
+Last	أخير
+Last	أخير - آخر- سابق
+
